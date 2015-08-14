@@ -1,0 +1,44 @@
+////////////////////////////////////////////////////////////////
+    Date: 4/5/2010 1:39:32 PM
+Assembly: TomShane.Neoforce.Controls.dll
+ Version: 0.6.1805.1653
+ Message: Could not find a part of the path 'C:\dev\AirWarrior\AWDataEntry\bin\Content\Skins\Default.skin'.
+////////////////////////////////////////////////////////////////
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.OpenRead(String path)
+   at TomShane.Neoforce.External.Zip.ZipFile.get_ReadStream()
+   at TomShane.Neoforce.External.Zip.ZipFile.Read(String zipfilename, Boolean TurnOnDebug)
+   at TomShane.Neoforce.External.Zip.ZipFile.Read(String zipfilename)
+   at TomShane.Neoforce.Controls.ArchiveManager..ctor(IServiceProvider serviceProvider, String archive)
+   at TomShane.Neoforce.Controls.Skin..ctor(Manager manager, String name)
+   at TomShane.Neoforce.Controls.Manager.SetSkin(String name)
+   at TomShane.Neoforce.Controls.Manager.Initialize()
+   at AWDataEntry.PilotTool.Initialize() in C:\dev\AirWarrior\AWDataEntry\AWDataEntry.cs:line 77
+   at Microsoft.Xna.Framework.Game.Run()
+   at AWDataEntry.Program.Main(String[] args) in C:\dev\AirWarrior\AWDataEntry\Program.cs:line 14
+////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////
+    Date: 4/5/2010 1:41:14 PM
+Assembly: TomShane.Neoforce.Controls.dll
+ Version: 0.6.1805.1653
+ Message: Could not find a part of the path 'C:\dev\AirWarrior\AWDataEntry\bin\Content\Skins\Default.skin'.
+////////////////////////////////////////////////////////////////
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.OpenRead(String path)
+   at TomShane.Neoforce.External.Zip.ZipFile.get_ReadStream()
+   at TomShane.Neoforce.External.Zip.ZipFile.Read(String zipfilename, Boolean TurnOnDebug)
+   at TomShane.Neoforce.External.Zip.ZipFile.Read(String zipfilename)
+   at TomShane.Neoforce.Controls.ArchiveManager..ctor(IServiceProvider serviceProvider, String archive)
+   at TomShane.Neoforce.Controls.Skin..ctor(Manager manager, String name)
+   at TomShane.Neoforce.Controls.Manager.SetSkin(String name)
+   at TomShane.Neoforce.Controls.Manager.Initialize()
+   at AWDataEntry.PilotTool.Initialize() in C:\dev\AirWarrior\AWDataEntry\AWDataEntry.cs:line 77
+   at Microsoft.Xna.Framework.Game.Run()
+   at AWDataEntry.Program.Main(String[] args) in C:\dev\AirWarrior\AWDataEntry\Program.cs:line 14
+////////////////////////////////////////////////////////////////
+

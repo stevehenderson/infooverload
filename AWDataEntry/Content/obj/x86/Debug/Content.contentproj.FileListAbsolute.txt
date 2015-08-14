@@ -1,0 +1,4 @@
+C:\view_pos_mng\goblinxna\tutorials\Tutorial10 - Networking\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\dev\InfoOverload\PilotTool\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\dev\AirWarrior\AWDataEntry\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\dev\infooverload\AWDataEntry\Content\obj\x86\Debug\ResolveAssemblyReference.cache

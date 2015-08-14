@@ -1,0 +1,19 @@
+LIBRARY     "VBSPlugin"
+DESCRIPTION "This is an example of a VBS plugin DLL"
+
+EXPORTS
+   RegisterCommandFnc @1
+   OnSimulationStep   @2
+   PluginFunction     @3
+   GetX				  @4
+   SetX				  @5
+   GetY				  @6
+   SetY				  @7
+   GetZ				  @8
+   SetZ				  @9
+   GetPitch			  @10
+   SetPitch			  @11
+   GetRoll			  @12
+   SetRoll			  @13
+   GetYaw			  @14
+   SetYaw			  @15

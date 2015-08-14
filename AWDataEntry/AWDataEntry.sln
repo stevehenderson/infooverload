@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AWDataEntry", "AWDataEntry.csproj", "{336516B8-94B4-4BB9-9979-87EB1E63312D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{336516B8-94B4-4BB9-9979-87EB1E63312D}.Debug|x86.ActiveCfg = Debug|x86
+		{336516B8-94B4-4BB9-9979-87EB1E63312D}.Debug|x86.Build.0 = Debug|x86
+		{336516B8-94B4-4BB9-9979-87EB1E63312D}.Release|x86.ActiveCfg = Release|x86
+		{336516B8-94B4-4BB9-9979-87EB1E63312D}.Release|x86.Build.0 = Release|x86
+		{2E5ACD3B-92B8-4235-89EC-C43AFA181E18}.Debug|x86.ActiveCfg = Debug|x86
+		{2E5ACD3B-92B8-4235-89EC-C43AFA181E18}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

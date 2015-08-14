@@ -1,0 +1,6 @@
+Content\TextBoxFont.xnb
+Content\TextFont.xnb
+Content\DebugFont.xnb
+Content\TextBoxFont.spritefont
+Content\TextFont.spritefont
+Content\DebugFont.spritefont

@@ -1,0 +1,8 @@
+#include "\vbs2\headers\function_library.hpp"
+
+_forever = true;
+while {(_forever)} do {
+	_pitchbank = apache call fn_vbs_getPitchBank;
+	player setVariable["pitchBank", _pitchbank, true];
+	sleep 0.03;
+};

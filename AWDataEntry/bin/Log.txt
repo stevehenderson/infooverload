@@ -1,0 +1,157 @@
+﻿
+/// Session started at: 2010-04-05 15:22
+/// GoblinXNA
+
+[15:22:59] Log: New status: Disconnected (No answer from remote host)
+
+/// Session started at: 2010-04-05 15:24
+/// GoblinXNA
+
+[15:24:49] Log: New status: Disconnected (No answer from remote host)
+
+/// Session started at: 2010-04-05 15:29
+/// GoblinXNA
+
+[15:29:37] Log: New status: Disconnected (No answer from remote host)
+
+/// Session started at: 2010-04-05 15:38
+/// GoblinXNA
+
+[15:38:52] Log: New status: Disconnected (No answer from remote host)
+
+/// Session started at: 2010-04-05 15:51
+/// GoblinXNA
+
+[15:51:31] Log: New status: Disconnected (No answer from remote host)
+
+/// Session started at: 2010-04-05 16:04
+/// GoblinXNA
+
+[16:04:02] Log: New status: Connected (Connected)
+[16:04:02] Error: Network Identifier: MouseNetworkObject is not found
+[16:04:02] Error: Network Identifier: Sphere is not found
+[16:04:02] Error: Network Identifier: Cylinder is not found
+[16:04:02] Error: Network Identifier: ShooterBox0 is not found
+[16:04:02] Error: Network Identifier: ShooterBox1 is not found
+[16:04:02] Error: Network Identifier: ShooterBox2 is not found
+[16:04:02] Error: Network Identifier: ShooterBox3 is not found
+[16:04:02] Error: Network Identifier: ShooterBox4 is not found
+[16:04:02] Error: Network Identifier: ShooterBox5 is not found
+[16:04:02] Error: Network Identifier: ShooterBox6 is not found
+[16:04:02] Error: Network Identifier: ShooterBox7 is not found
+[16:04:02] Error: Network Identifier: ShooterBox8 is not found
+[16:04:02] Error: Network Identifier: ShooterBox9 is not found
+[16:04:02] Error: Network Identifier: ShooterBox10 is not found
+[16:04:02] Error: Network Identifier: ShooterBox11 is not found
+[16:04:02] Error: Network Identifier: ShooterBox12 is not found
+[16:04:02] Error: Network Identifier: ShooterBox13 is not found
+[16:04:02] Error: Network Identifier: ShooterBox14 is not found
+[16:04:02] Error: Network Identifier: ShooterBox15 is not found
+[16:04:02] Error: Network Identifier: ShooterBox16 is not found
+[16:04:02] Error: Network Identifier: ShooterBox17 is not found
+[16:04:02] Error: Network Identifier: ShooterBox18 is not found
+[16:04:02] Error: Network Identifier: ShooterBox19 is not found
+[16:04:02] Error: Network Identifier: ShooterBox20 is not found
+[16:04:02] Error: Network Identifier: ShooterBox21 is not found
+[16:04:02] Error: Network Identifier: ShooterBox22 is not found
+[16:04:02] Error: Network Identifier: ShooterBox23 is not found
+[16:04:02] Error: Network Identifier: ShooterBox24 is not found
+[16:04:02] Error: Network Identifier: ShooterBox25 is not found
+[16:04:02] Error: Network Identifier: ShooterBox26 is not found
+[16:04:02] Error: Network Identifier: ShooterBox27 is not found
+[16:04:02] Error: Network Identifier: ShooterBox28 is not found
+[16:04:02] Error: Network Identifier: ShooterBox29 is not found
+[16:04:02] Error: Network Identifier: ShooterBox30 is not found
+[16:04:02] Error: Network Identifier: ShooterBox31 is not found
+[16:04:02] Error: Network Identifier: ShooterBox32 is not found
+[16:04:02] Error: Network Identifier: ShooterBox33 is not found
+[16:04:02] Error: Network Identifier: ShooterBox34 is not found
+[16:04:02] Error: Network Identifier: ShooterBox35 is not found
+[16:04:02] Error: Network Identifier: ShooterBox36 is not found
+[16:04:02] Error: Network Identifier: ShooterBox37 is not found
+[16:04:02] Error: Network Identifier: ShooterBox38 is not found
+[16:04:02] Error: Network Identifier: ShooterBox39 is not found
+[16:04:02] Error: Network Identifier: ShooterBox40 is not found
+[16:04:02] Error: Network Identifier: ShooterBox41 is not found
+[16:04:02] Error: Network Identifier: ShooterBox42 is not found
+[16:04:02] Error: Network Identifier: ShooterBox43 is not found
+[16:04:02] Error: Network Identifier: ShooterBox44 is not found
+[16:04:02] Error: Network Identifier: ShooterBox45 is not found
+[16:04:02] Error: Network Identifier: ShooterBox46 is not found
+[16:04:02] Error: Network Identifier: ShooterBox47 is not found
+[16:04:02] Error: Network Identifier: ShooterBox48 is not found
+[16:04:02] Error: Network Identifier: ShooterBox49 is not found
+[16:04:02] Error: Network Identifier: ShooterBox50 is not found
+[16:04:02] Error: Network Identifier: ShooterBox51 is not found
+[16:04:02] Error: Network Identifier: ShooterBox52 is not found
+[16:04:02] Error: Network Identifier: ShooterBox53 is not found
+[16:04:02] Error: Network Identifier: ShooterBox54 is not found
+[16:04:02] Error: Network Identifier: ShooterBox55 is not found
+[16:04:02] Error: Network Identifier: ShooterBox56 is not found
+[16:04:02] Error: Network Identifier: ShooterBox57 is not found
+[16:04:02] Error: Network Identifier: ShooterBox58 is not found
+[16:04:02] Error: Network Identifier: ShooterBox59 is not found
+[16:04:02] Error: Network Identifier: ShooterBox60 is not found
+[16:04:02] Error: Network Identifier: ShooterBox61 is not found
+[16:04:02] Error: Network Identifier: ShooterBox62 is not found
+[16:04:02] Error: Network Identifier: ShooterBox63 is not found
+[16:04:02] Error: Network Identifier: ShooterBox64 is not found
+[16:04:02] Error: Network Identifier: ShooterBox65 is not found
+[16:04:02] Error: Network Identifier: ShooterBox66 is not found
+[16:04:02] Error: Network Identifier: ShooterBox67 is not found
+[16:04:02] Error: Network Identifier: ShooterBox68 is not found
+[16:04:02] Error: Network Identifier: ShooterBox69 is not found
+[16:04:02] Error: Network Identifier: ShooterBox70 is not found
+[16:04:02] Error: Network Identifier: ShooterBox71 is not found
+[16:04:02] Error: Network Identifier: ShooterBox72 is not found
+[16:04:02] Error: Network Identifier: ShooterBox73 is not found
+[16:04:02] Error: Network Identifier: ShooterBox74 is not found
+[16:04:02] Error: Network Identifier: ShooterBox75 is not found
+[16:04:02] Error: Network Identifier: ShooterBox76 is not found
+[16:04:02] Error: Network Identifier: ShooterBox77 is not found
+[16:04:02] Error: Network Identifier: ShooterBox78 is not found
+[16:04:02] Error: Network Identifier: ShooterBox79 is not found
+[16:04:02] Error: Network Identifier: ShooterBox80 is not found
+[16:04:02] Error: Network Identifier: ShooterBox81 is not found
+[16:04:02] Error: Network Identifier: ShooterBox82 is not found
+[16:04:02] Error: Network Identifier: ShooterBox83 is not found
+[16:04:02] Error: Network Identifier: ShooterBox84 is not found
+[16:04:02] Error: Network Identifier: ShooterBox85 is not found
+[16:04:02] Error: Network Identifier: ShooterBox86 is not found
+[16:04:02] Error: Network Identifier: ShooterBox87 is not found
+
+/// Session started at: 2010-04-05 17:05
+/// GoblinXNA
+
+[17:05:23] Log: New status: Connected (Connected)
+[17:05:41] Error: Network Identifier: cockpit is not found
+[17:05:41] Error: Network Identifier: target_geo_0 is not found
+[17:05:41] Error: Network Identifier: Node 39 is not found
+[17:05:41] Error: Network Identifier: DSY is not found
+[17:05:41] Error: Network Identifier: DSX is not found
+[17:05:41] Error: Network Identifier: DSZ is not found
+[17:05:41] Error: Network Identifier: Node 41 is not found
+
+/// Session started at: 2010-04-05 17:06
+/// GoblinXNA
+
+[17:06:19] Log: New status: Connected (Connected)
+[17:06:19] Error: Network Identifier: cockpit is not found
+[17:06:19] Error: Network Identifier: target_geo_0 is not found
+[17:06:19] Error: Network Identifier: Node 39 is not found
+[17:06:19] Error: Network Identifier: DSY is not found
+[17:06:19] Error: Network Identifier: DSX is not found
+[17:06:19] Error: Network Identifier: DSZ is not found
+[17:06:19] Error: Network Identifier: Node 41 is not found
+
+/// Session started at: 2010-04-05 17:08
+/// GoblinXNA
+
+[17:08:57] Log: New status: Connected (Connected)
+[17:08:57] Error: Network Identifier: cockpit is not found
+[17:08:57] Error: Network Identifier: target_geo_0 is not found
+[17:08:57] Error: Network Identifier: Node 39 is not found
+[17:08:57] Error: Network Identifier: DSY is not found
+[17:08:57] Error: Network Identifier: DSX is not found
+[17:08:57] Error: Network Identifier: DSZ is not found
+[17:08:57] Error: Network Identifier: Node 41 is not found

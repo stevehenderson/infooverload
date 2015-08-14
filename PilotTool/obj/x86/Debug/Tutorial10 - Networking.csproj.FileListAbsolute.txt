@@ -1,0 +1,7 @@
+C:\view_pos_mng\goblinxna\bin\Newton.dll
+C:\view_pos_mng\goblinxna\bin\Tutorial10 - Networking.exe
+C:\view_pos_mng\goblinxna\bin\Tutorial10 - Networking.pdb
+C:\view_pos_mng\goblinxna\tutorials\Tutorial10 - Networking\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\view_pos_mng\goblinxna\tutorials\Tutorial10 - Networking\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\view_pos_mng\goblinxna\tutorials\Tutorial10 - Networking\obj\x86\Debug\Tutorial10 - Networking.exe
+C:\view_pos_mng\goblinxna\tutorials\Tutorial10 - Networking\obj\x86\Debug\Tutorial10 - Networking.pdb
